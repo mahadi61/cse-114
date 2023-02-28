@@ -1,0 +1,9 @@
+Question 1:
+If the marks obtained by a student in five different subjects area input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
+
+Question 2:
+
+Two numbers are input through the keyboard into two locations C and D.Write a program to interchange the contents of C and D.
+
+Home Task:
+If a five digit number is input through the keyboardm write a program to indentify those five digits and reverse the number
