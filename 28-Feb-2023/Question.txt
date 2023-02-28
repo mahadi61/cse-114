@@ -1,3 +1,8 @@
 HOME WORK:
 
 If a five digit number is input through the keyboardm write a program to indentify those five digits and reverse the number
++
+IF four digit number is input through the keyboard, write a program to obtain the sum of first and last digit of this number and calculate the sum of its digits
+
+1. If the total selling price of 15 items and the total profit earned on them is input through the keyboard, write a program to find the cost price of one item.
+
