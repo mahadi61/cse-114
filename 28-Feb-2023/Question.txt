@@ -1,0 +1,3 @@
+HOME WORK:
+
+If a five digit number is input through the keyboardm write a program to indentify those five digits and reverse the number
