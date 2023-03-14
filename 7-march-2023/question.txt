@@ -1,0 +1,11 @@
+1. write a program to calculate profit or loss.
+
+2. write a c program to input of five subjects and calculate precentage and grade according to following :
+percentage >= 90%: grade A
+percentage >= 80%: grade B
+percentage >= 70%: grade C
+percentage >= 60%: grade D
+percentage >= 40%: grade E
+percentage < 40%: grade F
+
+3. Write a program to identify a given number is odd or even

@@ -1,0 +1,2 @@
+gcc gread-sheet.c
+.\a.exe
