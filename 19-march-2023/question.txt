@@ -1,0 +1,1 @@
+1. Write a c program find the given number is even or odd.
